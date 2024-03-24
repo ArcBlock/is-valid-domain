@@ -1,4 +1,4 @@
-import punycode from 'punycode/punycode'
+import punycode from '@tahul/punycode'
 import sldMap from '../data/sldMap.json'
 import ccTldMap from '../data/ccTldMap.json'
 
