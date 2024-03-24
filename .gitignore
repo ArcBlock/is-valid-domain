@@ -96,6 +96,7 @@ _test
 _archive
 uploads
 tmp
+dist
 
 # Files to ignore #
 #######################
@@ -105,4 +106,3 @@ package-lock.json
 #######################
 .VimballRecord
 .netrwhist
-
