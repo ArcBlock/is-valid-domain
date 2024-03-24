@@ -1,5 +1,5 @@
 import { test, expect } from 'vitest'
-import isValidDomain from '../dist/index'
+import isValidDomain from '../src/index'
 import sldMap from '../data/sldMap.json'
 
 test('tld and simple subdomains', function (t) {

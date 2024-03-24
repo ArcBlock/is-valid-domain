@@ -97,6 +97,7 @@ _archive
 uploads
 tmp
 dist
+coverage
 
 # Files to ignore #
 #######################
