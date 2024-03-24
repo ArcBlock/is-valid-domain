@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/miguelmota/is-valid-domain"
+    "url": "https://github.com/tahul/is-valid-domain"
   },
   "keywords": [
     "valid",
@@ -26,9 +26,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/miguelmota/is-valid-domain/issues"
+    "url": "https://github.com/tahul/is-valid-domain/issues"
   },
-  "homepage": "https://github.com/miguelmota/is-valid-domain",
+  "homepage": "https://github.com/tahul/is-valid-domain",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
