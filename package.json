@@ -1,5 +1,5 @@
 {
-  "name": "is-valid-domain",
+  "name": "@tahul/is-valid-domain",
   "version": "0.1.6",
   "description": "Validate domain name",
   "type": "module",
