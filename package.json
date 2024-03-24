@@ -1,6 +1,6 @@
 {
   "name": "@tahul/is-valid-domain",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validate domain name",
   "type": "module",
   "repository": {
