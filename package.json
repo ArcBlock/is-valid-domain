@@ -38,6 +38,10 @@
   },
   "main": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "data"
+  ],
   "scripts": {
     "build": "unbuild -c build.config.ts",
     "stub": "unbuild -c build.config.ts --stub",
