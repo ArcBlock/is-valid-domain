@@ -1,6 +1,9 @@
 {
-  "name": "@tahul/is-valid-domain",
+  "name": "@arcblock/is-valid-domain",
   "version": "1.0.5",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Validate domain name",
   "type": "module",
   "repository": {
@@ -55,7 +58,7 @@
     "generate": "node data/generate.js"
   },
   "dependencies": {
-    "@tahul/punycode": "^2.3.4"
+    "punycode": "^2.3.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.9.0",

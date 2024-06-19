@@ -1,6 +1,7 @@
-import punycode from '@tahul/punycode'
 import sldMap from '../data/sldMap.json'
 import ccTldMap from '../data/ccTldMap.json'
+
+const punycode = require('punycode/');
 
 export default function isValidDomain (value: string, opts: any = {}) {
   if (typeof value !== 'string') return false
